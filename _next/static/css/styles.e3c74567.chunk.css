@@ -10,7 +10,8 @@ body,
   min-height: 100vh; }
 
 img {
-  display: block; }
+  display: block;
+  height: auto; }
 
 a {
   text-decoration: none;
@@ -38,7 +39,8 @@ header {
   width: 100%; }
 
 .nav-logo {
-  height: 115px; }
+  height: 115px;
+  width: 100%; }
   @media (min-width: 575px) {
     .nav-logo {
       height: 160px; } }

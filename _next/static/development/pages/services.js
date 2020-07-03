@@ -1051,7 +1051,7 @@ eval("module.exports = \"/_next/static/images/working_on_machine-817e47be03e96be
 
 /***/ }),
 
-/***/ 14:
+/***/ 10:
 /*!****************************************************************************************************************************************!*\
   !*** multi next-client-pages-loader?page=%2Fservices&absolutePagePath=%2FUsers%2Fitmc3%2FDesktop%2Fnext_caltech%2Fpages%2Fservices.js ***!
   \****************************************************************************************************************************************/
@@ -1074,4 +1074,4 @@ eval("module.exports = dll_5030f387d328e4415785;//# sourceURL=[module]\n//# sour
 
 /***/ })
 
-},[[14,"static/runtime/webpack.js","styles"]]]);
+},[[10,"static/runtime/webpack.js","styles"]]]);
