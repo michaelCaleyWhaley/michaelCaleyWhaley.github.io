@@ -39,8 +39,8 @@ header {
   width: 100%; }
 
 .nav-logo {
-  height: 115px;
-  width: 100%; }
+  width: auto;
+  height: 115px; }
   @media (min-width: 575px) {
     .nav-logo {
       height: 160px; } }
